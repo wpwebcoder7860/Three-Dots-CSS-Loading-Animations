@@ -1,7 +1,6 @@
 ## GIF Image
+![screenrecordinginwindows11-GoogleSearch-GoogleChrome2024-03-0800-01-34-ezgif com-video-to-gif-converter](https://github.com/wpwebcoder7860/ThreeDotsCSSloadinganimations/assets/158323899/f6abf126-c077-44d1-a96f-3c8b89cc1cce)
 
-![Tab Example GIF]
-(https://example.com/your-gif-image.gif)
 
 This GIF demonstrates the functionality of the tab example with the loader.
 
