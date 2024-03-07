@@ -1,3 +1,10 @@
+## GIF Image
+
+![Tab Example GIF]
+(https://example.com/your-gif-image.gif)
+
+This GIF demonstrates the functionality of the tab example with the loader.
+
 # Tab Example with Loader
 
 This is a simple HTML file demonstrating the use of tabs with a loader for form submission.
