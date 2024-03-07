@@ -63,7 +63,7 @@ This project is licensed under the [wpwebcoder7860](LICENSE).
 If you have any questions or suggestions, feel free to reach out:
 
 - Email: wpwebcoder@gmail.com
-- 
+  
 ## GIF Image
 ![screenrecordinginwindows11-GoogleSearch-GoogleChrome2024-03-0800-01-34-ezgif com-video-to-gif-converter](https://github.com/wpwebcoder7860/ThreeDotsCSSloadinganimations/assets/158323899/f6abf126-c077-44d1-a96f-3c8b89cc1cce)
 
